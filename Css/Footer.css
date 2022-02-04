@@ -3,7 +3,7 @@
     padding: 0;
 }
 footer{
-	position: fixed;
+	
 	bottom: 0;
 }
 
@@ -20,7 +20,6 @@ footer{
 	text-align: left;
 	font: bold 16px sans-serif;
 	padding: 30px 104px 30px 104px;
-	margin-top: 80px;
 }
 
 .footer-distributed .footer-left, .footer-center, .footer-right{
